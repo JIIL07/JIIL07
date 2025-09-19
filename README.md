@@ -12,7 +12,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDljcDdhZzJ3bXhlNmVrcTJmbW1qeTYzeDNtNjU4cG52cXdnNzF2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" height="300"/>
 </div>
 
-## :technologist: 🧑‍💻 About Me:
+## :technologist: About Me:
 
 I’m a multi-language software engineer from Russia, specializing in backend development with Go (Golang), while actively working across the full stack using TypeScript, JavaScript, Python, and C++. I build scalable web applications, robust APIs, and efficient desktop solutions — adapting the right tool for each task.
 
